@@ -31,23 +31,23 @@ global.APIKeys = {
 
 //━━━━━━━━━━━━━━━[ SETTING ]━━━━━━━━━━━━━━━━━//
 global.thumb = fs.readFileSync('./image/thumbnail.jpg') // JGN DI UBAH!
-global.name = 'Aulia Rahman (Owner)', // GNTI NAMA LU!
-global.creator = 'LiaaCans BOT' // GANTI NAMA BOT LU BANH!
-global.owner = ['6285821676621'] // GNTI NOMOR LU!
-global.premium = ['6285821676621', '6281528965381']
+global.name = 'Alan (Owner)', // GNTI NAMA LU!
+global.creator = 'LUCY BOT' // GANTI NAMA BOT LU BANH!
+global.owner = ['6283112917675'] // GNTI NOMOR LU!
+global.premium = ['6283112917675', '6281528965381']
  // ADD PREM YG LU MAU BANH!!
 global.quotes = 'Kesempatan Anda Untuk Sukses Di Setiap Kondisi Selalu Dapat Diukur Oleh Seberapa Besar Kepercayaan Anda Pada Diri Sendiri' // Ganti Quotes, Tapi Trsrh Klian
-global.pulsa = ['081528965381'] // UBAH NOMOR YG AKTIF!
-global.botname = 'Created LiaaCans BOT' // GNTI NAMA BOT LU!
+global.pulsa = ['083112917675'] // UBAH NOMOR YG AKTIF!
+global.botname = 'Created Lucy Bot' // GNTI NAMA BOT LU!
 global.packname = 'Nih Stikel Umtukmu' // TRSERAH MO GANTI AP!
-global.author = 'LiaaCans BOT' // GNTI NMA LU!
-global.fake = 'LIAACANS BOT VERIFIED' // GNTI NMA BOT LU BANH!
+global.author = 'LUCY BOT' // GNTI NMA LU!
+global.fake = 'LUCY BOT VERIFIED' // GNTI NMA BOT LU BANH!
 // FITUR TOPUP OTOMATIS 
 global.hargadmff = 1261
 global.hargadmml = 1700
-global.merchant = 'M221101PAZJ5903YO' 
-global.secret = 'fcc9c3922337cd1443c071dbd3d356daebe4f908632e293241c31e8ac014c46f'
-global.signature = 'ad488c46183fa32611f547ffbc5e4e10'
+global.merchant = 'M221128SEJQ7614TK' 
+global.secret = '5c3c2eda7290a2e7d38abbc31b9182c832fe3f03f81bc39d58728bc49896a954'
+global.signature = '74f6f627b5e4c4a0c55ab384c2442dd0'
 //CARA AKTIFIN:
 //1. DAFTAR DI APIGAMES.UD
 //2. AMBIL MERCHANT ID DAN SECRET KEY
@@ -71,7 +71,7 @@ endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
 premium: "Unlimited",
-free: 10
+free: 20
 }
 
 let file = require.resolve(__filename)
